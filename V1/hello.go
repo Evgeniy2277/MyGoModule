@@ -1,8 +1,6 @@
 package V1
 
-
 import (
-	_ "github.com/valyala/fasthttp"
 	"fmt"
 )
 
